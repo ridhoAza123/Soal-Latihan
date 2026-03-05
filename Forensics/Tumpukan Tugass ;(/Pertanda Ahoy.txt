@@ -1,0 +1,15 @@
+
+Judul Tantangan: Deadliner Sejati
+Tingkat Kesulitan: Medium (Butuh Scripting)
+
+Deskripsi Soal:
+"POV: Kamu adalah siswa kelas akhir yang baru saja bangun dari koma selama satu semester. Saat membuka laptop, kamu menemukan sebuah file bernama Tugas1.zip Tugas2.zip Tugas3.zip.
+
+Setelah kamu buka, ternyata isinya adalah folder tugas yang di dalamnya ada file zip lagi, dan di dalamnya ada zip lagi... seolah-olah gurumu sengaja melakukan ini agar kamu tidak lulus. Katanya, ada satu baris kalimat penyemangat (Flag) yang disembunyikan di lapisan paling dalam.
+
+Waktu pengumpulan sisa 5 menit! Apakah kamu akan membukanya satu per satu secara manual, atau menggunakan skill otomasi demi kelulusanmu?"
+
+Hint (Petunjuk):
+Hint 1: "Jangan jadi budak tugas! Biarkan Teknologi yang mengerjakan kerja rodi ini untukmu."
+
+Hint 2: "Perintah unzip di Linux adalah Jebakan Maut dan BUANG BUANG WAKTU."

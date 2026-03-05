@@ -1,0 +1,15 @@
+Judul Tantangan: Jejak Digital Sang Pionir
+Kategori: Forensics / Steganography
+Tingkat Kesulitan: Medium - Hard
+
+Deskripsi Soal:
+"Seorang arsiparis di SMK Telkom menemukan sebuah file logo lama yang ukurannya sedikit lebih besar dari biasanya. Konon, para pendiri sekolah menyisipkan sebuah pesan rahasia di dalam unit terkecil dari warna logo tersebut untuk generasi masa depan.
+
+Banyak yang mencoba melihatnya dengan mata telanjang, namun gagal. Pesan itu tersembunyi di balik lapisan bit yang paling rendah, seolah-olah ia tidak ada. Bisakah kamu menemukan pesan rahasia tersebut?"
+
+Hint (Petunjuk):
+Hint 1: "Terkadang, rahasia terbesar tersimpan di tempat yang paling tidak signifikan (Least Significant)."
+
+Hint 2: "Jangan tertipu oleh tampilan luar (Visual). Gunakan alat untuk membedah setiap bidang warna (Color Planes)."
+
+Hint 3: "Jika kamu pengguna Linux, seekor 'Zebra' mungkin bisa membantumu menemukan string tersebut dengan cepat."

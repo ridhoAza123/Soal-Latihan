@@ -1,0 +1,19 @@
+Judul Tantangan: Absensi Kilat Sang Legenda
+Tingkat Kesulitan: Medium
+
+Deskripsi Soal:
+"Pagi ini server absensi sekolah sedang down parah karena semua murid mencoba melakukan scan di waktu yang bersamaan. Admin IT sekolah akhirnya mengirimkan satu folder berisi 1000 QR Code cadangan ke grup WhatsApp kelas.
+
+Dia bilang: 'Salah satu dari QR ini adalah akses masuk ke sistem Absensi yang asli. Yang lain cuma link rusak atau pesan zonk. Buruan scan sebelum gerbang ditutup!'
+
+Masalahnya, gerbang tutup 2 menit lagi. Kalau kamu scan manual pakai HP satu-satu, kamu pasti telat. Gunakan keahlian coding-mu untuk menemukan pesan di dalam QR Code yang benar!"
+
+File Tantangan:
+Absensi_Pagi.zip.
+
+Hint (Petunjuk):
+Hint 1: "Manusia punya batas, Gunakan Teknologi Wahai Anak Muda WKWKWKWK."
+
+Hint 2: "Looping adalah kunci."
+
+Hint 3: "Flag yang kamu cari bukan berformat FLAG{...}, melainkan sebuah kalimat spesifik tentang Absensi Pagi."
