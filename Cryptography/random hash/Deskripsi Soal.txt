@@ -1,0 +1,3 @@
+Deskripsi Soal:
+
+"Seorang hacker meninggalkan jejak hash dengan jenis **** yang sangat kuat. Kami berhasil mengamankan daftar kemungkinan password dari komputernya. Bisakah kamu mencari tahu password mana yang menghasilkan hash tersebut? Jangan coba-coba pakai Google, ini kode rahasia sekolah!"

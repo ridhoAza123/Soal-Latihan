@@ -1,0 +1,29 @@
+Judul Soal: Asm v2 (Revenge)
+Poin: 150
+Deskripsi:
+Saya menemukan native assembly dari x86-64 gcc lagi, tapi kali ini sepertinya angkanya sudah dimodifikasi. Bisa bantu cari hasil dari eksekusi di bawah ini?
+
+main:
+        push    rbp
+        mov     rbp, rsp
+        mov     DWORD PTR [rbp-4], 500
+        cmp     DWORD PTR [rbp-4], 500
+        jne     .L2
+        add     DWORD PTR [rbp-4], 300
+        jmp     .L3
+.L2:
+        sub     DWORD PTR [rbp-4], 100
+.L3:
+        add     DWORD PTR [rbp-4], 600
+        cmp     DWORD PTR [rbp-4], 1400
+        jne     .L4
+        sub     DWORD PTR [rbp-4], 63
+        jmp     .L5
+.L4:
+        add     DWORD PTR [rbp-4], 10
+.L5:
+        mov     eax, DWORD PTR [rbp-4]
+        pop     rbp
+        ret
+
+Format flag: SMD{ANGKA_HASIL_PERHITUNGAN}
