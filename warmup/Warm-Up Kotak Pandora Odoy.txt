@@ -1,0 +1,6 @@
+Judul: Warm-Up: Kotak Pandora Odoy
+Poin: 100
+Deskripsi: > "Selamat datang di LKS 2026. Sebagai pemanasan, kami memberikan sebuah foto kenangan. Namun, foto ini telah dimodifikasi oleh sistem keamanan kami. File di dalamnya rusak dan terkunci. Perbaiki, buka, dan temukan flagnya sebelum waktu habis!"
+
+Hint: "Header file adalah identitas. Tanpa identitas, file hanyalah sampah."
+File: warmup_odoy.jpg
