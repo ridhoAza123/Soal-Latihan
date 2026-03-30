@@ -1,8 +1,0 @@
-Judul: Sinyal Radio skatel
-Poin: 75
-Kategori: Cryptography
-
-Deskripsi:
-"Kami menangkap sinyal frekuensi rendah dari arah Banjarbaru. Isinya hanya teks aneh yang terus berulang. Intelijen kami bilang ini adalah sandi kuno yang digunakan oleh para kaisar Roma. Bisakah kamu memecahkannya?"
-
-Sinyal Terdeteksi: ZTK{q _x ns t_ nue_v nr c t_iehkx}
