@@ -1,0 +1,6 @@
+Judul: Jejak yang Tertinggal
+
+Deskripsi:
+Server SMK Telkom Banjarbaru terindikasi dibobol oleh seseorang. Dari ribuan aktivitas user, ada satu aktivitas mencurigakan di mana penyerang berhasil melewati halaman login menggunakan teknik SQL Injection.
+
+Tugas: Cari IP Address penyerang dan payload yang digunakan!

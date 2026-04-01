@@ -1,0 +1,10 @@
+Judul Soal: Rahasia Ka Rahman
+Kategori: Cryptography / Encoding
+
+Deskripsi:
+"Seorang admin bernama Ka Rahman mengirimkan sebuah pesan rahasia di server SMK Telkom Banjarbaru. Pesan tersebut dibungkus berkali-kali agar tidak ada siswa yang bisa membacanya dengan mudah. Bisakah kamu membantu membukanya sampai ke akar-akarnya?"
+
+Pesan:
+Vm14U1FtVkdTbGhXV0d4VVZrVktjVnBYYzNkbFZsSnlWMVJXYWsxVldsaFphMlEwWVcxS1JXSklRbFZXVjA0MFdWWmFibVZXVG5OalJteE9ZVzE0ZVZkWGNFOWpNRGxTVUZRd1BRPT0=
+
+Format Flag= SMD{}
